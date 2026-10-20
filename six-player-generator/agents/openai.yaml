@@ -1,0 +1,4 @@
+interface:
+  display_name: "Six Player Generator"
+  short_description: "Create decision-ready product strategy six-pagers"
+  default_prompt: "Use $six-player-generator to create a six-page product strategy narrative for my product idea."
